@@ -29,3 +29,8 @@ AES GO! ULTRA, mobilya üretiminde kullanılan ahşap paneller üzerinde delme v
 ## Kaynak
 
 - [AES Group Resmî Web Sitesi](https://aesgroup.com.tr/)
+
+## Proje Dosyaları
+
+- [SWOT Analizi](SWOT-Analizi.md)
+- [Yazılımsal Geliştirme Önerileri](Gelistirme-Onerileri.md)
